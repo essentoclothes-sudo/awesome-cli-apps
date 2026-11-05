@@ -337,6 +337,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [tiki](https://github.com/boolean-maybe/tiki) - Markdown-based workflow builder.
 - [yapsnap](https://github.com/kouhxp/yapsnap) - Transcribe video URLs, audio files or meetings on your machine.
 
+- [mdq](https://github.com/essentoclothes-sudo/mdq) - Query markdown pipe tables: select columns, filter rows, sort. Like jq for markdown tables.
 ### Time Tracking
 
 - [Timetrap](https://github.com/samg/timetrap) - Simple timetracker.
